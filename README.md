@@ -1,33 +1,33 @@
 # 🎬 YouTube Shorts BOT
 
-An automated content pipeline that converts long-form YouTube videos into high-quality 4K vertical Shorts with minimal manual intervention.
+An automated media-processing workflow that converts long-form YouTube videos into vertical short-form content with minimal manual intervention.
 
-Built to streamline short-form content creation through automation, AI-assisted workflows, and scalable media processing.
+This project focuses on automation, media processing pipelines, and creator-focused productivity workflows.
 
 ---
 
 # 🚀 Overview
 
-The YouTube Shorts BOT was developed to automate the repetitive workflow of transforming long-form videos into engaging vertical short-form content.
+The YouTube Shorts BOT was developed to simplify the repetitive process of converting long-form content into short-form vertical videos.
 
-The system focuses on:
-- Automation
-- Scalability
-- Creator productivity
-- Efficient content repurposing
+Instead of manually clipping, resizing, and formatting videos, the system automates major parts of the workflow through scripting and media-processing pipelines.
 
-This project explores how AI-assisted systems and automation workflows can simplify modern content production pipelines.
+The project explores:
+- Automation systems
+- AI-assisted workflows
+- Media processing pipelines
+- Creator productivity tools
 
 ---
 
 # ✨ Features
 
-- 🎥 Converts long-form videos into vertical Shorts
-- ⚡ Automated content processing workflow
-- 📱 4K vertical video formatting
-- ✂️ Automated clipping and media handling
-- 🤖 AI-assisted content workflow integration
-- 🚀 Designed for scalable short-form content production
+- 🎥 Automated long-form video processing
+- ✂️ Automated clipping workflows
+- 📱 Vertical Shorts formatting pipeline
+- ⚡ Reduced manual editing effort
+- 🤖 AI-assisted workflow experimentation
+- 🚀 Scalable media-processing approach
 
 ---
 
@@ -36,41 +36,30 @@ This project explores how AI-assisted systems and automation workflows can simpl
 ## Languages & Tools
 - Python
 - FFmpeg
-- Automation Scripts
 
-## AI / Media Processing
-- AI-assisted workflow systems
-- Video processing pipelines
-
----
-
-# 🧠 Project Thinking
-
-One of the main goals of this project was reducing the manual effort required in short-form content creation workflows.
-
-The system was designed to automate repetitive production steps while maintaining output quality and scalability.
-
-This project helped deepen my understanding of:
-- Automation systems
-- Media processing workflows
-- AI-assisted productivity tools
-- Scalable content pipelines
+## Workflow Systems
+- Automation scripts
+- Media-processing pipelines
 
 ---
 
+# 🧠 Engineering & Workflow Thinking
 
+The primary goal of this project was reducing the manual effort involved in short-form content production workflows.
 
-# 🔗 Links
+Rather than focusing on frontend interfaces, the project emphasizes backend automation and processing efficiency.
 
-## GitHub Repository
-(https://github.com/rohitansh911?tab=repositories)
+Working on this system helped deepen my understanding of:
+- Automation engineering
+- Video-processing workflows
+- Script-based system design
+- Scalable media pipelines
 
----
 
 # ⚙️ Installation
 
 ```bash
-git clone <repo-link>
+git clone <repository-link>
 cd <project-folder>
 pip install -r requirements.txt
 python main.py
@@ -82,10 +71,10 @@ python main.py
 
 - AI-based highlight detection
 - Automatic subtitle generation
-- Social media auto-posting
-- Multi-platform export support
-- Cloud-based processing workflows
-- Batch video processing
+- Multi-platform export workflows
+- Batch processing support
+- Cloud-based processing pipelines
+- Social media auto-posting integration
 
 ---
 
